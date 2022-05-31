@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferran</h1>
-<h3 align="center">A BackEnd Developer from Barcelona</h3>
+<h3 align="center">A FullStack Developer from Barcelona</h3>
 
-- 🌱 I’m currently learning **ReactJS and getting better at NodeJS**
+- 🌱 I’m currently learning **Angular and getting better at NodeJS and TypeScript**
 
 - 📫 How to reach me **escolasarabia@gmail.com**
 
