@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ferran</h1>
 <h3 align="center">A FullStack Developer from Barcelona</h3>
 
-- 🌱 I’m currently learning **Angular and getting better at NodeJS and TypeScript**
+- 🌱 I’m currently working full-time with **Angular, TypeScript, NodeJS, C#/Unity, Coffeescript, HTML and SCSS**
 
-- 📫 How to reach me **escolasarabia@gmail.com**
+- 📫 Reach me @ **escolasarabia@gmail.com**
+
+- I'm also working on my own little projects for DnD and tabletop stuff
 
 
 <p align="center">
