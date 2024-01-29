@@ -5,7 +5,7 @@
 
 - 📫 Reach me @ **escolasarabia@gmail.com**
 
-- I'm also working on my own little projects for DnD and tabletop stuff
+- I'm also working on my own little projects for DnD, tabletop stuff and learning some Rust 🦀 
 
 
 <p align="center">
