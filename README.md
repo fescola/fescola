@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferran</h1>
 <h3 align="center">A FullStack Developer from Barcelona</h3>
 
-- 🌱 I’m currently working full-time with **Angular, TypeScript, NodeJS, C#/Unity, Coffeescript, HTML and SCSS**
+- 🌱 I’m currently working with **Angular, TypeScript, NodeJS, C#/Unity, Coffeescript, HTML and SCSS**
 
 - 📫 Reach me @ **escolasarabia@gmail.com**
 
